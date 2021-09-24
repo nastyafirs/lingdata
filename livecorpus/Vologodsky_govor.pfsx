@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1440,900</Object>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <prefList key="Interlinear.VisibleTiers">
+        <String>default</String>
+        <String>text@ek1994f</String>
+        <String>trans@ek1994f</String>
+    </prefList>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>text@ek1994f</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>323335</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Ветка">
+            <Int>75</Int>
+        </pref>
+        <pref key="Слой">
+            <Int>75</Int>
+        </pref>
+        <pref key="Инициалы">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время окончания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Дата создания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время начала">
+            <Int>75</Int>
+        </pref>
+        <pref key="Отправитель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Получатель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Дата изменения">
+            <Int>75</Int>
+        </pref>
+        <pref key="Комментарий">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Время начала</String>
+        <String>Время окончания</String>
+        <String>Слой</String>
+        <String>Инициалы</String>
+        <String>Комментарий</String>
+        <String>Ветка</String>
+        <String>Отправитель</String>
+        <String>Получатель</String>
+        <String>Дата создания</String>
+        <String>Дата изменения</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <pref key="Interlinear.SelectionOnly">
+        <Boolean>false</Boolean>
+    </pref>
+    <prefList key="ExportToolbox.selectedTiers">
+        <String>default</String>
+        <String>ELANBegin</String>
+        <String>ELANEnd</String>
+        <String>ELANParticipant</String>
+        <String>text</String>
+        <String>trans</String>
+    </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>315485</Long>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="Interlinear.TierOrder">
+        <String>default</String>
+        <String>text@ek1994f</String>
+        <String>trans@ek1994f</String>
+    </prefList>
+    <pref key="MediaControlRate">
+        <Float>0.7</Float>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>207930</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>214430</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="default">
+            <Object class="java.awt.Color">90,0,160</Object>
+        </pref>
+        <pref key="text@ek1994f">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>default</String>
+        <String>text@ek1994f</String>
+        <String>trans@ek1994f</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>70</Int>
+    </pref>
+    <prefGroup key="Interlinear.FontSizes">
+        <pref key="default">
+            <Int>12</Int>
+        </pref>
+        <pref key="trans@ek1994f">
+            <Int>12</Int>
+        </pref>
+        <pref key="text@ek1994f">
+            <Int>12</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Отправитель</String>
+        <String>Получатель</String>
+    </prefList>
+</preferences>
